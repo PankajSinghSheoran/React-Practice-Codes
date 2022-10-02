@@ -9,7 +9,7 @@ function App() {
       <nav className='navbar navbar-expand-lg bg-light'>
         <div className='container-fluid'>
           <a className='navbar-brand' href='/'>
-            TextUtils
+            To DO's List
           </a>
           <button
             className='navbar-toggler'
