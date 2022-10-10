@@ -34,7 +34,7 @@ function App() {
   return (
     <>
       <Header Title="My ToDo List" searchBar={true} />
-      <ToDos />
+      <ToDos todos={todos} />
       <Footer />
     </>
   );
