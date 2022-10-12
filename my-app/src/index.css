@@ -19,3 +19,16 @@ code {
   justify-content: center;
   /* min-height: 100vh; */
 }
+
+.btn-outline-success {
+  color: #000000;
+  background-color: #ffffff;
+  background-image: none;
+  border-color: #000000;
+}
+
+.btn-outline-success:hover {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #000000;
+}
